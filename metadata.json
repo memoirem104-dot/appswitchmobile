@@ -1,0 +1,10 @@
+{
+  "name": "SwitchGard",
+  "description": "Application de gestion, d'échange et de validation des gardes pour les professionnels de santé, pharmaciens, médecins, pompiers et urgences.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
